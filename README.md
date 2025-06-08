@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anshu Mishra</h1>
-<h3 align="center">Frontend-Focused Full Stack & Android Developer | UI/UX Enthusiast | Cloud Learner</h3>
+<h3 align="center">Frontend-Focused Full Stack & Android Developer | UI/UX Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate%20Web%20%26%20Android%20Developer;Frontend%20Lover%20|%20Clean%20UI%20Builder;MERN%20Stack%20%7C%20Cloud%20%7C%20AI%20Exploration;Always%20Learning%20%F0%9F%93%9A" />
