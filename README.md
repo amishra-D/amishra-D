@@ -82,7 +82,9 @@
 ### 📬 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/anshumishra-dev" target="_blank">
+  <a href="www.linkedin.com/in/
+anshu-mishra-a5b645291
+" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:yourmail@example.com">
