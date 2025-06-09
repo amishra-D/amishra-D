@@ -85,7 +85,7 @@
   <a href="https://www.linkedin.com/in/anshu-mishra-a5b645291/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:yourmail@example.com">
+  <a href="https://mail.google.com/mail/?view=cm&to=anshumishraocog@gmail.com">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/amishra-D" target="_blank">
