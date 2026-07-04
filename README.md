@@ -1,100 +1,156 @@
-<h1 align="center">Hi 👋, I'm Anshu Mishra</h1>
-<h3 align="center">Frontend-Focused Full Stack & Android Developer | UI/UX Enthusiast</h3>
+<h1 align="center">Hi, I'm Anshu Mishra</h1>
+
+<h3 align="center">
+Full Stack Developer • Backend Engineer • AI Enthusiast
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate%20Web%20%26%20Android%20Developer;Frontend%20Lover%20|%20Clean%20UI%20Builder;MERN%20Stack%20%7C%20Cloud%20%7C%20AI%20Exploration;Always%20Learning%20%F0%9F%93%9A" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Backend+Developer+with+Node.js+and+FastAPI;Building+AI+Applications+using+LLMs+and+RAG;Always+Learning+New+Technologies" />
+</p>
+
+<p align="center">
+
+![](https://komarev.com/ghpvc/?username=amishra-D&style=flat-square)
+
 </p>
 
 ---
 
-### 🚀 About Me
+# About Me
 
-- 🔭 I’m currently building a **Skill-Map Based Career Navigator** using MERN, NLP, and a recommender system.
-- 👨‍💻 All of my projects are available on [my GitHub](https://github.com/amishra-D)
-- 📚 Learning: **TypeScript**, **Redis**, and **Socket.IO**
-- 🧠 Projects I've built:  
-  - 📚 **ReadRush** – A genre-based bookstore site  
-  - 🔐 **CyberSentinels** – A WebRTC-based video calling app  
-  - 📊 **Daily Drift** – Tracks daily habits with reminders, streaks, and analytics  
-  - 🧵 **Threadly** – Anonymous full-stack platform for user-generated content  
+I am a Computer Science Engineering (AI & ML) student passionate about building scalable backend systems, modern web applications, and AI-powered solutions.
+
+Currently exploring:
+
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- FastAPI
+- LangChain
+- LangGraph
+- System Design
+- Cloud Technologies
+
+I enjoy solving real-world problems through clean architecture, scalable APIs, and intuitive user experiences.
 
 ---
 
-### 🛠️ Tech Stack
+# Tech Stack
 
-#### 💻 Languages
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+## Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
 
-#### ⚙️ Frontend
-![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss)
+---
 
-#### 🔧 Backend
+## Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Redux Toolkit](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock)
+
+---
+
+## Backend
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens)
+![Socket.io](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio)
+![SMTP](https://img.shields.io/badge/SMTP-4285F4?style=for-the-badge)
+
+---
+
+## AI & Machine Learning
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-121212?style=for-the-badge)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge)
+![Dialogflow](https://img.shields.io/badge/Dialogflow-FF9800?style=for-the-badge&logo=dialogflow)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-4CAF50?style=for-the-badge)
+
+---
+
+## Database
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis)
 
-#### 🧠 AI | NLP
-![Dialogflow](https://img.shields.io/badge/Dialogflow-FF9800?style=for-the-badge&logo=dialogflow&logoColor=white)
-![Gemini](https://img.shields.io/badge/Google%20Gemini-AI-blueviolet?style=for-the-badge)
+---
 
-#### 📲 Android & Tools
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![Retrofit](https://img.shields.io/badge/Retrofit-0077B5?style=for-the-badge&logo=retrofit&logoColor=white)
+## Android
 
-#### 📦 Other Tools & Services
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio)
+![Retrofit](https://img.shields.io/badge/Retrofit-009688?style=for-the-badge)
+
+---
+
+## Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
-![Recharts](https://img.shields.io/badge/Recharts-E15759?style=for-the-badge&logo=recharts&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge)
 
 ---
 
-### 📈 GitHub Stats
+# Featured Projects
+
+| Project | Description | Tech |
+|----------|-------------|------|
+| Threadly | Anonymous social platform with authentication, media uploads and interactions | MERN |
+| CyberSentinels | Secure peer-to-peer video calling application | WebRTC • Express • Socket.io |
+| Daily Drift | Habit tracking platform with analytics and reminders | React • Firebase • Recharts |
+| ReadRush | Genre-based bookstore with responsive UI | React • Tailwind CSS |
+
+---
+
+# GitHub Statistics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=amishra-D&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=amishra-D&theme=radical" />
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=amishra-D&show_icons=true&theme=tokyonight"/>
+
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=amishra-D&theme=tokyonight"/>
+
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amishra-D&layout=compact&theme=radical" />
-</p>
 
----
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amishra-D&layout=compact&theme=tokyonight"/>
 
-### 📌 Featured Projects
-
-| Project          | Description                                                                                  | Stack Used                        | Live Demo     |
-|------------------|----------------------------------------------------------------------------------------------|------------------------------------|---------------|
-| **ReadRush**     | A clean and organized genre-based online bookstore                                           | React, Tailwind, Firebase          | [Visit](#)    |
-| **DailyDrift**   | Track daily habits with streaks, charts, and notification reminders                         | React, Firebase, Recharts          | [Visit](#)    |
-| **CyberSentinels** | Secure peer-to-peer video calls using WebRTC and signaling server                         | WebRTC, Express, Socket.io         | [Visit](#)    |
-| **Skill Navigator** | A MERN+NLP based platform suggesting career paths based on your skill map                | MongoDB, Express, React, Node, AI  | [Coming Soon] |
-
----
-
-### 📬 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/anshu-mishra-a5b645291/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://mail.google.com/mail/?view=cm&to=anshumishraocog@gmail.com">
-    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/amishra-D" target="_blank">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
 </p>
 
 ---
 
+# Connect
+
 <p align="center">
-  Made with ❤️ by Anshu | Keep Coding 💻
+
+<a href="https://github.com/amishra-D">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/anshu-mishra-a5b645291/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:anshumishraocog@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
 </p>
